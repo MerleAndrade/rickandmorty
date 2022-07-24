@@ -1,6 +1,6 @@
 //alle Charaktere nehmen und anzeigen
 
-import {Character} from "./Character";
+import {Character} from "../Character";
 import CharacterCard from "./CharacterCard";
 
 type CharacterGalleryProps = {
